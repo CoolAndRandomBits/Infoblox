@@ -1,1 +1,1 @@
-# Infoblox
+Two simple (and insecure) scripts for importing host records into Infoblox, and updating the DHCP setting on some networks
